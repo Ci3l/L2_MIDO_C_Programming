@@ -1,7 +1,7 @@
 # Programmation C - L2 MIDO
 
 ## Course Overview
-This repository contains tutorials and exercises from my *Programmation C* course at Paris-Dauphine University, where I'm enrolled in the second year of the *Mathematics and Applied Computer Science for Decision-Making* (MIDO) program.
+This repository contains the tutorials from my *Programmation C* course at Paris-Dauphine University, where I am enrolled in the second year of the *Mathematics and Applied Computer Science for Decision-Making* (MIDO) program.
 
 ### Instructor
 **Emmanuel Lazard**
@@ -10,27 +10,26 @@ This repository contains tutorials and exercises from my *Programmation C* cours
 49.5 hours
 
 ### Topics Covered
-- **Types and Expressions**: Understanding basic types and expressions in C.
-- **Control Structures**: Implementing conditional statements and loops.
-- **Functions**: Learning how to define and use functions in C.
-- **Arrays and Pointers**: Exploring the use of arrays and pointers for data management.
-- **Structures**: Working with structures to organize data.
-- **Preprocessor**: Using preprocessor directives effectively.
-- **Input/Output**: Managing data input and output.
+- **Types and Expressions**: Learning fundamental C data types and operators.
+- **Control Structures**: Implementing conditionals and loops for program flow.
+- **Functions**: Writing and calling functions in C.
+- **Arrays and Pointers**: Exploring array manipulation and pointer usage.
+- **Structures**: Organizing data with `struct`.
+- **Preprocessor**: Utilizing preprocessor directives in C code.
+- **Input/Output**: Managing user input and output.
 
 ## Repository Structure
-The tutorials are organized by class sessions, labeled sequentially as:
-- `tuto_1`
-- `tuto_2`
-- ...
-  
-Each tutorial folder contains the source code and any related documentation or notes.
+The tutorials are split into two main categories:
+- **`theoretical_tutorials`**: Contains theoretical exercises (travaux dirigés) focusing on the underlying concepts and theory of C programming.
+- **`practical_tutorials`**: Includes practical exercises (travaux pratiques) for hands-on coding practice and application.
+
+Each folder is organized by tutorial sessions, labeled sequentially (e.g., `tuto_1`, `tuto_2`).
 
 ## How to Use This Repository
-Feel free to explore each tutorial and study the code. You're welcome to suggest improvements, report issues, or ask questions by opening an issue or pull request. I hope this repository serves as a resource for students learning C or those looking to brush up on foundational programming skills.
+Explore the **theoretical_tutorials** for in-depth understanding of C programming concepts, and check out the **practical_tutorials** for applied coding exercises. You are welcome to suggest improvements, report issues, or ask questions by opening an issue or pull request. I hope this repository serves as a helpful learning resource for others in C programming.
 
 ## License
-This repository is open-source. Contributions are welcome under the condition that they respect academic integrity guidelines.
+This repository is open-source. Contributions are welcome as long as they respect academic integrity guidelines.
 
 ## Contact
-For any inquiries, please reach out through the repository’s issues or contact me via my [LinkedIn profile](https://www.linkedin.com/in/erwan-poiré).
+For inquiries, please reach out via the repository’s issues or contact me through my [LinkedIn profile](https://www.linkedin.com/in/erwan-poiré).
