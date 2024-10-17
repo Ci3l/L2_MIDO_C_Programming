@@ -1,0 +1,4 @@
+# Ignore all executable files
+*.out
+*.exe
+main  # Add the name of your executable if it doesn’t have an extension
