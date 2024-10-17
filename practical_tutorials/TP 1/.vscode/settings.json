@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "nombre_parfait.C": "cpp"
+    }
+}
